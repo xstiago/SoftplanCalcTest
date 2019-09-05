@@ -1,0 +1,14 @@
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\obj\Debug\netcoreapp2.2\SoftplanCalcTest.csproj.CoreCompileInputs.cache
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\obj\Debug\netcoreapp2.2\SoftplanCalcTest.AssemblyInfoInputs.cache
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\obj\Debug\netcoreapp2.2\SoftplanCalcTest.AssemblyInfo.cs
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\bin\Debug\netcoreapp2.2\SoftplanCalcTest.deps.json
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\bin\Debug\netcoreapp2.2\SoftplanCalcTest.runtimeconfig.json
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\bin\Debug\netcoreapp2.2\SoftplanCalcTest.runtimeconfig.dev.json
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\bin\Debug\netcoreapp2.2\SoftplanCalcTest.dll
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\bin\Debug\netcoreapp2.2\SoftplanCalcTest.pdb
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\obj\Debug\netcoreapp2.2\SoftplanCalcTest.csprojAssemblyReference.cache
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\obj\Debug\netcoreapp2.2\SoftplanCalcTest.RazorAssemblyInfo.cache
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\obj\Debug\netcoreapp2.2\SoftplanCalcTest.RazorAssemblyInfo.cs
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\obj\Debug\netcoreapp2.2\SoftplanCalcTest.RazorTargetAssemblyInfo.cache
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\obj\Debug\netcoreapp2.2\SoftplanCalcTest.dll
+C:\Users\xstia\source\repos\xstiago\SoftplanCalcTest\SoftplanCalcTest\SoftplanCalcTest\obj\Debug\netcoreapp2.2\SoftplanCalcTest.pdb
